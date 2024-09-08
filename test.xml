@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RuptoRequest xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.4">
+    <com:PartyIdentifier com:partyIdentifierCategory="National identification number">022-097-122 11</com:PartyIdentifier>
+    <com:PartyIdentifier com:partyIdentifierCategory="Tax identifier">942303466186</com:PartyIdentifier>
+</RuptoRequest>

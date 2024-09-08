@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:RuptoRequest xmlns:rucom="urn:ru:rupto:common/1.0.0"
+                  xmlns:rutmk="urn:ru:rupto:trademark/1.0.1"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.4"
+                  xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark/1.0.3"
+                  xmlns:fipsx="http://www1.fips.ru/standards/XMLSchema/ST96/FipsExtra/1.0.0"
+                  xmlns:fipscom="http://www1.fips.ru/standards/XMLSchema/ST96/FipsCommon/1.0.0"
+                  xmlns:tns="http://ws.rupto.ru/smev3/gosuslugi/clients/tm_registation/1.0.4"
+                  xmlns:epgu="http://rupto.ru/standards/XMLSchema/epgu/1.0.1"
+                  xmlns:ehd="http://rupto.ru/standards/XMLSchema/ehd/1.0.0"
+>
+    <epgu:Order>
+        <epgu:orderId>3501528426</epgu:orderId>
+        <epgu:ServiceCode>60012726</epgu:ServiceCode>
+        <epgu:TargetCode>-60012726</epgu:TargetCode>
+        <epgu:orderDate>2024-08-08</epgu:orderDate>
+        <epgu:SubServiceCode>10071</epgu:SubServiceCode>
+        <epgu:qualificationCodeINBag>
+            <epgu:qualificationCodeIN>МНЗ</epgu:qualificationCodeIN>
+        </epgu:qualificationCodeINBag>
+    </epgu:Order>
+    <tns:Service>
+        <tns:TrademarkApplication>
+            <tmk:TrademarkApplication com:st96Version="V4_0">
+                <com:DocumentIncludedBag>
+                    <com:DocumentIncluded com:languageCode="ru">
+                        <com:DocumentName>Заявляемое обозначение</com:DocumentName>
+                        <com:FileName>2023749945_ImageOfSign.tiff</com:FileName>
+                        <com:DocumentDate>2024-08-08</com:DocumentDate>
+                        <com:DocumentLocationURI></com:DocumentLocationURI>
+                        <com:DocumentSizeQuantity com:unitCode="б">42614</com:DocumentSizeQuantity>
+                        <com:IPOfficeCodeBag>
+                            <com:IPOfficeCode>RU</com:IPOfficeCode>
+                        </com:IPOfficeCodeBag>
+                    </com:DocumentIncluded>
+                </com:DocumentIncludedBag>
+                <tmk:TrademarkBag>
+                    <tmk:Trademark>
+                        <com:ApplicationNumber>
+                            <com:ApplicationNumberText></com:ApplicationNumberText>
+                        </com:ApplicationNumber>
+                        <tmk:MarkCategory>Trademark</tmk:MarkCategory>
+                        <tmk:MarkRepresentation>
+                            <tmk:MarkFeatureCategory>Word</tmk:MarkFeatureCategory>                                                                                                                                                                                                                                                                                                                                                                                                                                 <tmk:MarkReproduction>
+                            <tmk:WordMarkSpecification>
+                                <tmk:MarkSignificantVerbalElementText com:languageCode="ru"></tmk:MarkSignificantVerbalElementText>
+                            </tmk:WordMarkSpecification>
+                            <tmk:MarkImageBag>
+                                <tmk:MarkImage com:sequenceNumber="1">
+                                    <com:FileName></com:FileName>
+                                    <tmk:MarkImageColourClaimedText com:languageCode="ru" com:sequenceNumber="1">Синий</tmk:MarkImageColourClaimedText>
+                                </tmk:MarkImage>
+                            </tmk:MarkImageBag>
+                        </tmk:MarkReproduction>
+                            <tmk:MarkDescriptionBag>
+                                <tmk:MarkDescriptionText com:languageCode="ru">На регистрацию заявляется словесное обозначение
+                                    «HOBI», выполненное стандартным шрифтом в
+                                    латинице</tmk:MarkDescriptionText>
+                            </tmk:MarkDescriptionBag>
+                        </tmk:MarkRepresentation>
+                        <tmk:GoodsServicesBag>
+                            <tmk:GoodsServices>
+                                <tmk:GoodsServicesClassificationBag>
+                                    <tmk:GoodsServicesClassification>
+                                        <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                                    </tmk:GoodsServicesClassification>
+                                </tmk:GoodsServicesClassificationBag>
+                                <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                                <com:ClassificationVersion>12-2024</com:ClassificationVersion>
+                                <tmk:ClassDescriptionBag>
+                                    <tmk:ClassDescription>
+                                        <tmk:ClassNumber>1</tmk:ClassNumber>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">агар-агар для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">азот</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">актиний</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">алкалоиды*</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">альгинаты для пищевой промышленности</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">альгинаты для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">альдегид кротоновый</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">альдегидаммиак</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">альдегиды*</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">америций</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">амилацетат</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">аммиак [летучая щелочь] для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">аммиак безводный</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">аммиак*</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ангидрид уксусной кислоты</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ангидриды</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антидетонаторы для топлива двигателей внутреннего сгорания</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антинакипины</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антиоксиданты для производства косметики</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антиоксиданты для производства пищевых добавок</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антиоксиданты для производства фармацевтических продуктов</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антиоксиданты для промышленности</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антистатики, за исключением бытовых</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антифризы</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">аппреты для текстильной промышленности</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">аргон</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">арсенат свинца</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">аспартам для пищевой промышленности</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">аспартам для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">астатин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ацетат алюминия*</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ацетат кальция</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ацетат свинца</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ацетат целлюлозы необработанный</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ацетаты [химические вещества]*</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ацетилен</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ацетон</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бактерициды энологические [химические препараты, используемые при производстве вин]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">барий</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бариты</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">белки [животные или растительные, сырье]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">белки животные [сырье]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">белки йодистые</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">белки солодовые</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бензол</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бензол сырой</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бентонит</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">беркелий</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бикарбонат натрия для химических целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">биоксалат калия</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">биостимуляторы для растений</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бихромат калия</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бихромат натрия</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бокситы</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бром для химических целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага альбуминовая</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага баритовая</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага для диазокопирования</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага для светокопий</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага индикаторная химическая</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага лакмусовая</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага реактивная, за исключением используемой для медицинских или ветеринарных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага самовирирующаяся [фотография]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага селитрованная</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага сенсибилизированная</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага фотометрическая</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бура</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества агглютинирующие для бетона</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества для газоочистки</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества для матирования</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества для предотвращения спускания чулочной петли</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества для разделения жиров</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества для умягчения воды</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества для флюатирования</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества дубильные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества клеящие для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества поверхностно-активные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества расщепляющиеся для получения ядерной энергии</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества связующие для литейного производства</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества химические для вспенивания бетона</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества химические для выделки кожи</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества химические для изготовления красок</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества химические для изготовления пигментов</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества химические для разжижения крахмала [вещества обесклеивающие]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества, способствующие сохранению семян</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вискоза</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">висмут</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">висмут азотнокислый для химических целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">витамины для пищевой промышленности</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">витамины для производства косметики</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">витамины для производства пищевых добавок</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">витамины для производства фармацевтических продуктов</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">витерит</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вода дистиллированная</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вода морская для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вода подкисленная для перезарядки аккумуляторов</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вода тяжелая</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вода щелочная для пищевой промышленности</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">водород</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">водоросли морские [удобрения]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:ClassificationTermBag>
+                                            <tmk:ClassificationTerm>
+                                                <tmk:ClassificationTermText></tmk:ClassificationTermText>
+                                            </tmk:ClassificationTerm>
+                                        </tmk:ClassificationTermBag>
+                                    </tmk:ClassDescription>
+                                    <tmk:ClassDescription>
+                                        <tmk:ClassNumber>2</tmk:ClassNumber>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">блестки для использования в краске</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага для окрашивания пасхальных яиц</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества окрашивающие*</tmk:GoodsServicesDescriptionText>
+                                        <tmk:ClassificationTermBag>
+                                            <tmk:ClassificationTerm>
+                                                <tmk:ClassificationTermText></tmk:ClassificationTermText>
+                                            </tmk:ClassificationTerm>
+                                        </tmk:ClassificationTermBag>
+                                    </tmk:ClassDescription>
+                                    <tmk:ClassDescription>
+                                        <tmk:ClassNumber>3</tmk:ClassNumber>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага абразивная</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага наждачная</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бумага полировальная</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вещества влагопоглощающие для посудомоечных машин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:ClassificationTermBag>
+                                            <tmk:ClassificationTerm>
+                                                <tmk:ClassificationTermText></tmk:ClassificationTermText>
+                                            </tmk:ClassificationTerm>
+                                        </tmk:ClassificationTermBag>
+                                    </tmk:ClassDescription>
+                                    <tmk:ClassDescription>
+                                        <tmk:ClassNumber>4</tmk:ClassNumber>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">антрацит</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">бензин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">биотопливо</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">брикеты из древесины</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">брикеты топливные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вазелин технический для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск [сырье]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск горный [озокерит]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск для освещения</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск для ремней</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск карнаубский</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск пчелиный для производства косметики</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск пчелиный*</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">газ для освещения</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">газ нефтяной</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">газ топливный</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">газолин [топливо]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">газы генераторные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">газы отвержденные [топливо]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">горючее</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">графит смазочный</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">добавки нехимические для моторного топлива</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">дрова</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жгуты бумажные для разжигания</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жидкости смазочно-охлаждающие</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жир рыбий технический</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жиры для консервации кожи</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жиры для смазки кожи</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жиры для смазки обуви</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жиры твердые</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">жиры технические</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">керосин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">кокс</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ланолин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ланолин для производства косметики</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">лигроин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">лучины древесные для разжигания</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">мази лыжные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">мазут</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла горючие</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла для консервации кожи</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла для красок</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла для облегчения выемки из форм [строительство]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла для освещения</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла для предохранения каменной или кирпичной кладки</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла для тканей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла смазочные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масла технические</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло для зубчатых передач</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло из каменноугольной смолы</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло каменноугольное</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло касторовое техническое</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло костяное для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло моторное</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло подсолнечное для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло сурепное для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">масло увлажняющее</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">материалы смазочные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">нафта</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">нефть сырая или рафинированная</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">ночники [свечи]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">олеин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">парафин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">препараты для удаления пыли</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">препараты из соевого масла для обработки кухонной посуды с целью предотвращения пригорания</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">препараты, препятствующие проскальзыванию ремней</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">пыль угольная [топливо]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">растопка</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">свечи ароматические</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">свечи для новогодних елок</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">свечи для освещения</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">свечи соевые</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">смазки для оружия консистентные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">смазки консистентные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">смазки консистентные для ремней</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">смеси горючие карбюрированные</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">составы для поглощения пыли</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">составы связующие для подметания</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">составы связующие для пыли</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">спирт [топливо]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">спирт этиловый метилированный</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">стеарин</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">топливо бензольное</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">топливо дизельное</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">топливо для освещения</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">топливо ксилольное</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">топливо минеральное</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">топливо моторное</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">топливо на основе спирта</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">торф [топливо]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">торф брикетированный [топливо]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">трут</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">уголь бурый</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">уголь для кальяна</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">уголь древесный [топливо]</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">уголь каменный</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">уголь каменный брикетированный</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">фитили для ламп</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">фитили для свечей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:ClassificationTermBag>
+                                            <tmk:ClassificationTerm>
+                                                <tmk:ClassificationTermText></tmk:ClassificationTermText>
+                                            </tmk:ClassificationTerm>
+                                        </tmk:ClassificationTermBag>
+                                    </tmk:ClassDescription>
+                                    <tmk:ClassDescription>
+                                        <tmk:ClassNumber>5</tmk:ClassNumber>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">альгициды</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">альдегиды для фармацевтических целей</tmk:GoodsServicesDescriptionText>
+                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">амальгамы зубные из золота</tmk:GoodsServicesDescriptionText>
+                                        <tmk:ClassificationTermBag>
+                                            <tmk:ClassificationTerm>
+                                                <tmk:ClassificationTermText></tmk:ClassificationTermText>
+                                            </tmk:ClassificationTerm>
+                                        </tmk:ClassificationTermBag>
+                                    </tmk:ClassDescription>
+                                </tmk:ClassDescriptionBag>
+                            </tmk:GoodsServices>
+                        </tmk:GoodsServicesBag>
+                        <tmk:PriorityBag>
+                            <tmk:Priority>
+                                <com:PriorityCountryCode>RU</com:PriorityCountryCode>
+                                <com:PriorityApplicationFilingDate>2024-08-08</com:PriorityApplicationFilingDate>
+                                <com:CommentText com:languageCode="ru" com:sequenceNumber="1">Приоритет по дате подачи заявки</com:CommentText>
+                            </tmk:Priority>
+                        </tmk:PriorityBag>
+
+                        <tmk:ApplicantBag>
+                            <tmk:Applicant com:sequenceNumber="1" rutmk:entityCategory="Russian Federation organization">
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Entity identifier">1027710013033</com:PartyIdentifier>                                                 <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Tax identifier">7710439772</com:PartyIdentifier>                                                 <com:Contact com:languageCode="ru">
+                                <com:Name>
+                                    <com:OrganizationName com:languageCode="ru">
+                                        <com:OrganizationStandardName>Общество с ограниченной ответственностью &quot;ОБИ Франчайзинговый Центр&quot;</com:OrganizationStandardName>                                                          </com:OrganizationName>
+                                </com:Name>
+                                <com:PostalAddressBag>
+                                    <com:PostalAddress>
+                                        <com:PostalAddressText com:languageCode="ru" com:sequenceNumber="1">141400, Московская область, город Химки, микрорайон Икеа, 3</com:PostalAddressText>                                                         </com:PostalAddress>
+                                </com:PostalAddressBag>
+                            </com:Contact>
+                                <com:PublicationContact com:languageCode="ru">
+                                    <com:Name>
+                                        <com:EntityName com:languageCode="ru"></com:EntityName>
+                                    </com:Name>
+                                    <com:PostalAddress>
+                                        <com:PostalAddressText com:languageCode="ru" com:sequenceNumber="1">443052, обл. Самарская, г. Самара, пр-кт. Кирова, 1</com:PostalAddressText>                                                                     </com:PostalAddress>
+                                    <com:PhoneNumberBag>
+                                        <com:PhoneNumber>+7(906)3445373</com:PhoneNumber>
+                                    </com:PhoneNumberBag>
+                                    <com:EmailAddressBag>
+                                        <com:EmailAddressText com:sequenceNumber="1">vlas.krasovskiy@mail.ru</com:EmailAddressText>                                                                     </com:EmailAddressBag>
+                                </com:PublicationContact>
+                            </tmk:Applicant>
+                        </tmk:ApplicantBag>
+                        <com:RepresentativeBag>
+                            <com:Representative com:sequenceNumber="1" com:operationCategory="Insert">
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Contract worker number">1001</com:PartyIdentifier>
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Birth date">19.10.1994</com:PartyIdentifier>
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Passport number">0001 333333</com:PartyIdentifier>
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Passport issue date">11.11.2011</com:PartyIdentifier>
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Passport issuing authority">ГУ МВД Самара, 630006</com:PartyIdentifier>
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Birth place">Самара</com:PartyIdentifier>
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="National identification number">022-097-122 11</com:PartyIdentifier>
+                                <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Tax identifier">942303466186</com:PartyIdentifier>
+                                <com:Contact com:languageCode="ru">
+                                    <com:Name>
+                                        <com:PersonName com:languageCode="ru">
+                                            <com:PersonFullName>Красовский Влас Алексеевич</com:PersonFullName>
+                                        </com:PersonName>
+                                    </com:Name>
+                                    <com:PostalAddressBag>
+                                        <com:PostalAddress>
+                                            <com:PostalAddressText com:sequenceNumber="1">443052, обл. Самарская, г. Самара, пр-кт. Кирова, 1</com:PostalAddressText>
+                                        </com:PostalAddress>
+                                        <com:PostalAddress>
+                                            <com:PostalStructuredAddress com:languageCode="ru">
+                                                <com:AddressLineText com:addressLineCategory="Street" com:sequenceNumber="1"> ул. Кирова, д. 1,</com:AddressLineText>
+                                                <com:CityName>Самара</com:CityName>
+                                                <com:GeographicRegionName com:geographicRegionCategory = "Province">(63) Самарская обл.</com:GeographicRegionName>
+                                                <com:CountryCode>RU</com:CountryCode>
+                                                <com:PostalCode>443052</com:PostalCode>
+                                            </com:PostalStructuredAddress>
+                                        </com:PostalAddress>
+                                    </com:PostalAddressBag>
+                                    <com:EmailAddressBag>
+                                        <com:EmailAddressText com:sequenceNumber="1">vlas.krasovskiy@mail.ru</com:EmailAddressText>
+                                    </com:EmailAddressBag>
+                                    <com:PhoneNumberBag>
+                                        <com:PhoneNumber>+7(906)3445373</com:PhoneNumber>
+                                    </com:PhoneNumberBag>
+                                </com:Contact>
+                                <rucom:ProfessionalRepresentativeSpecialization>Изобретения и полезные модели</rucom:ProfessionalRepresentativeSpecialization>
+                                <rucom:ProfessionalRepresentativeSpecialization>Промышленные образцы</rucom:ProfessionalRepresentativeSpecialization>
+                                <rucom:ProfessionalRepresentativeSpecialization>Товарные знаки и знаки обслуживания</rucom:ProfessionalRepresentativeSpecialization>
+                                <rucom:ProfessionalRepresentativeSpecialization>Географические указания и наименования мест происхождения товаров</rucom:ProfessionalRepresentativeSpecialization>
+                            </com:Representative>
+                        </com:RepresentativeBag>
+
+
+                        <tmk:NationalGoodsServices>
+                            <tmk:NationalClassTotalQuantity>5</tmk:NationalClassTotalQuantity>
+                        </tmk:NationalGoodsServices>
+                        <com:CorrespondenceAddress>
+                            <com:Contact com:languageCode="ru">
+                                <com:Name>
+                                    <com:PersonName com:languageCode="ru">
+                                        <com:PersonFullName></com:PersonFullName>
+                                    </com:PersonName>
+                                </com:Name>
+                                <com:PostalAddressBag>
+                                    <com:PostalAddress>
+                                        <com:PostalAddressText com:languageCode="ru" com:sequenceNumber="1">443052, обл. Самарская, г. Самара, пр-кт. Кирова, 1</com:PostalAddressText>
+                                    </com:PostalAddress>
+                                </com:PostalAddressBag>
+                                <com:EmailAddressBag>
+                                    <com:EmailAddressText com:sequenceNumber="1" rucom:preferredContact="true">vlas.krasovskiy@mail.ru</com:EmailAddressText>                                                     </com:EmailAddressBag>
+                            </com:Contact>
+                        </com:CorrespondenceAddress>
+                        <rutmk:AdditionalConditions>
+                            <rutmk:TrademarkInclusion>
+                                <rutmk:FamousPersonName>false</rutmk:FamousPersonName>
+                                <rutmk:GoodReward>false</rutmk:GoodReward>
+                                <rutmk:OfficialSymbol>false</rutmk:OfficialSymbol>
+                                <rutmk:NaturalCulturalHeritage>false</rutmk:NaturalCulturalHeritage>
+                            </rutmk:TrademarkInclusion>
+                            <rutmk:PreviousHolderCopyrightConsent>false</rutmk:PreviousHolderCopyrightConsent>
+                            <rutmk:SimilarMark>false</rutmk:SimilarMark>
+                        </rutmk:AdditionalConditions>
+                    </tmk:Trademark>
+                </tmk:TrademarkBag>
+                <com:PaymentBag>
+                    <com:Payment>
+                        <com:PaymentReference>Пошлина по п. 2.1. и по п. 2.4. Приложения №1 к Положению о пошлинах</com:PaymentReference>                                 <com:PaymentModeCategory>Charge</com:PaymentModeCategory>
+                        <com:PaymentMethod>
+                            <com:OtherPaymentMethod>По квитанции от Роспатента</com:OtherPaymentMethod>
+                        </com:PaymentMethod>
+                        <com:PayerName>
+                            <com:PersonName com:languageCode="ru">
+                                <com:PersonFullName>Красовский Влас Алексеевич</com:PersonFullName>
+                            </com:PersonName>
+                        </com:PayerName>
+                        <com:PaymentDate>2024-08-08</com:PaymentDate>
+                        <com:PaymentFeeBag>
+                            <com:PaymentFee>
+                                <com:BasicFeeAmount com:currencyCode="RUB">17500</com:BasicFeeAmount>                                     </com:PaymentFee>
+                        </com:PaymentFeeBag>
+                        <com:FeePayableTotalAmount com:currencyCode="SSP">17500</com:FeePayableTotalAmount>                                                                 <rucom:Payer>
+                        <com:PartyIdentifier com:officeCode="RU" xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.3" com:partyIdentifierCategory="Tax identifier">942303466186</com:PartyIdentifier>                                         <com:PartyIdentifier com:officeCode="RU" xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.3" com:partyIdentifierCategory="National identification number">022-097-122 11</com:PartyIdentifier>                                                                                                                                             </rucom:Payer>
+                    </com:Payment>
+                </com:PaymentBag>
+                <com:SignatureBag>
+                    <com:Signature>
+                        <com:Contact com:languageCode="ru">
+                            <com:Name>
+                                <com:PersonName com:languageCode="ru">
+                                    <com:PersonFullName>Влас Красовский Алексеевич</com:PersonFullName>
+                                </com:PersonName>
+                            </com:Name>
+                        </com:Contact>
+                        <com:ElectronicSignature>
+                            <com:ElectronicSignatureDate xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.3">2024-08-08</com:ElectronicSignatureDate>
+                            <com:ElectronicSignaturePlace xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.3">ЕПГУ</com:ElectronicSignaturePlace>
+                            <com:ElectronicBasicSignature xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.3">
+                                <com:ElectronicBasicSignatureClickWrap xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.3">true</com:ElectronicBasicSignatureClickWrap>
+                            </com:ElectronicBasicSignature>
+                            <rucom:SignatureKind>ПЭП</rucom:SignatureKind>
+                        </com:ElectronicSignature>
+                    </com:Signature>
+                </com:SignatureBag>
+            </tmk:TrademarkApplication>
+        </tns:TrademarkApplication>
+    </tns:Service>
+    <ehd:EHDSpec>
+        <ehd:ApplicationDirectoryKind ehd:numberValue="100001" ehd:textValue="DR_TRADEMARK">
+            <ehd:DirectoryKind ehd:numberValue="150000" ehd:textValue="DC_PRIMARY">
+                <ehd:FileKind ehd:numberValue="1236" ehd:textValue="APPLICATION">
+                    <ehd:FileName>application.xml</ehd:FileName>
+                </ehd:FileKind>
+                <ehd:FileKind ehd:numberValue="1236" ehd:textValue="APPLICATION">
+                    <ehd:FileName>pdf_application.pdf</ehd:FileName>
+                </ehd:FileKind>
+                <ehd:FileKind ehd:numberValue="1059" ehd:textValue="TRADEMARK_IMAGE">
+                    <ehd:FileName>2023749945_ImageOfSign.tiff</ehd:FileName>
+                </ehd:FileKind>
+            </ehd:DirectoryKind>
+        </ehd:ApplicationDirectoryKind>
+    </ehd:EHDSpec>
+</tns:RuptoRequest>
