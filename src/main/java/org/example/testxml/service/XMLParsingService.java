@@ -1,4 +1,4 @@
-package org.example.testxml;
+package org.example.testxml.service;
 
 /**
  * Интерфейс парсинга XML массива байт в нужный DTO

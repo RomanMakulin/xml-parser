@@ -1,7 +1,7 @@
-package org.example.testxml.impl;
+package org.example.testxml.service.impl;
 
-import org.example.testxml.XMLParsingService;
-import org.example.testxml.filler.PartyIdentifierDTOFiller;
+import org.example.testxml.service.XMLParsingService;
+import org.example.testxml.service.filler.PartyIdentifierDTOFiller;
 import org.example.testxml.utils.XmlDocumentLoader;
 import org.example.testxml.dto.PartyIdentifierDTO;
 import org.springframework.stereotype.Service;

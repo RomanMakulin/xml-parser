@@ -1,6 +1,7 @@
 package org.example.testxml;
 
 import org.example.testxml.dto.PartyIdentifierDTO;
+import org.example.testxml.service.XMLParsingService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
